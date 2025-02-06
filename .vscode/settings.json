@@ -1,0 +1,8 @@
+{
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "main"
+    ],
+    "files.associations": {
+        "desafio super trunfo": "cpp"
+    }
+}
