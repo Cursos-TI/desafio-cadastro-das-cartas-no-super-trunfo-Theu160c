@@ -4,5 +4,6 @@
     ],
     "files.associations": {
         "desafio super trunfo": "cpp"
-    }
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }

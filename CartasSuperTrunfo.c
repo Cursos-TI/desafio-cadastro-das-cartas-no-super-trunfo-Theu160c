@@ -1,9 +1,20 @@
 #include <stdio.h>
 
+    int main(){
+        int populacao;
+        float area
+        float pib
+        int numero de pontos turisticos
 
-int main(){
-    printf("Desafio Super Trunfo!\n");
+        printf("Populacao: \n");
+        scanf("%d", populacao);
+        
 
-    
-    return 0;
-}
+
+
+
+
+
+
+
+    }
