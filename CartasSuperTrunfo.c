@@ -9,7 +9,7 @@ int main(){
     printf("Desafio Super Trunfo\n");
 
     printf("Digite a populacao: \n");
-    scanf("%d", &Populacao);
+    scanf("%f", &Populacao);
 
     printf("Digite a area por km: \n");
     scanf("%f", &Area);
