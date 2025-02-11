@@ -20,7 +20,10 @@ int main(){
      printf("Digite os pontos turistico: \n");
     scanf("%d", &TURISMO);
 
+    printf("Populacao: %d \n - Area por km : %f \n , Populacao, Area");
+    printf("PIB: %f \n - TURISMO: %d \n, PIB, TURISMO");
 
-    printf("Populacao: %d \n - Area por km : %f \n ", Populacao, Area");
-    printf("PIB: %f \n - TURISMO: %d \n", PIB, TURISMO);
+    return 0;
+
     }
+
